@@ -1,5 +1,5 @@
 {
-  "name": "laptop-bd-bazar-server",
+  "name": "12_server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,6 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "jsonwebtoken": "^9.0.0",
-    "mongodb": "^4.13.0"
+    "mongodb": "^4.12.0"
   }
 }
