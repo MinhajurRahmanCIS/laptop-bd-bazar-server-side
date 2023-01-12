@@ -9,7 +9,7 @@ Project Repository Link For Client side:  \
 Project Repository Link For Server side: 
 
 # Project Info
-This is a cloud kitchen Foodie Service Website.
+This is a Used Laptop  Website.
 ## Technologies  –
 1.     The Corders site is develop with react library.  
 2.     For the fastest route I used react router framework.
